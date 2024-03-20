@@ -1,0 +1,144 @@
+{
+  "name": "@sdailover/react-aicamsor",
+  "version": "1.0.0",
+  "private": false,
+<<<<<<< HEAD
+  "main": "build/cjs/index.js",
+  "module": "build/esm/index.js",
+  "types": "build/esm/index.d.ts",
+  "style": "build/dist/sdailover.aicamsor.css",
+=======
+  "main": "dist/sdailover.aicamsor.js",
+  "module": "dist/sdailover.aicamsor.js",
+  "style": "dist/sdailover.aicamsor.css",
+>>>>>>> abeaeb8e57b589b24ce4aa8c3309e8d5bb481370
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/SDaiLover/react-aicamsor",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SDaiLover/react-aicamsor.git"
+  },
+  "author": "Stephanus Dai <wiefunk@stephanusdai.web.id> (https://stephanusdai.web.id/)",
+  "contributors": [
+    "Stephanus Bagus Saputra <wiefunk@stephanusdai.web.id> ( 戴 Dai 偉 Wie 峯 Funk )"
+  ],
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/sdailover"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/sdailover"
+    },
+    {
+      "type": "opencollective",
+      "url": "https://www.opencollective.com/sdailover"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sdailover"
+    }
+  ],
+<<<<<<< HEAD
+  "lint-staged": {
+    "*.{js,ts,tsx}": "eslint --fix"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.2.0",
+    "react-prop-types": "^0.4.0",
+    "react-scripts": "^3.0.1"
+  },
+  "scripts": {
+    "build": "node tools/build.js",
+    "build-types": "yarn tsc -d --emitDeclarationOnly --outDir types",
+    "clean": "rm -rf node_modules && yarn install"
+=======
+  "dependencies": {
+    "react": "^18",
+    "react-bootstrap": "^2.10.1",
+    "react-cookie": "^7.1.0",
+    "react-dom": "^18",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.22.3"
+>>>>>>> abeaeb8e57b589b24ce4aa8c3309e8d5bb481370
+  },
+  "devDependencies": {
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "@tensorflow-models/face-detection": "^1.0.2",
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs": "^4.16.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.16.0",
+    "@tensorflow/tfjs-core": "^4.16.0",
+    "@tensorflow/tfjs-node": "^4.17.0",
+    "@vladmandic/face-api": "^1.7.13",
+<<<<<<< HEAD
+    "@4c/rollout": "^4.0.2",
+    "@4c/tsconfig": "^0.4.1",
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.1",
+    "@babel/plugin-syntax-flow": "^7.24.1",
+    "@babel/preset-env": "^7.24.1",
+    "@babel/preset-flow": "^7.24.1",
+    "@babel/preset-react": "^7.24.1",
+    "@babel/preset-typescript": "^7.24.1",
+    "@babel/runtime": "^7.22.5",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "html-react-parser": "^5.1.8",
+    "babel-loader": "^9.1.3",
+    "chalk": "^2.4.2",
+    "cherry-pick": "^0.5.0",
+    "cpy-cli": "^5.0.0",
+    "eslint": "^8.57.0",
+    "execa": "^5.1.1",
+    "fs-extra": "^11.2.0",
+    "path": "^0.12.7",
+    "prop-types": "^15.8.1",
+    "prop-types-extra": "^1.1.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.2",
+    "util": "^0.12.5",
+    "webpack-cli": "^5.1.4"
+  }
+=======
+    "@types/formidable": "^3.4.5",
+    "@types/jquery": "^3.5.29",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "canvas": "^2.11.2",
+    "eslint": "^8",
+    "face-api.js": "^0.20.1",
+    "html-react-parser": "^5.1.8",
+    "tfjs-image-recognition-base": "^0.6.2",
+    "tslib": "^1.11.1",
+    "typescript": "^5",
+    "universal-cookie": "^7.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sdailover/react-sdailover-aicamsor/issues"
+  },
+  "description": "Machine Learning for ReactJS Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "aicamsor",
+    "learning",
+    "aicamera"
+  ]
+>>>>>>> abeaeb8e57b589b24ce4aa8c3309e8d5bb481370
+}
