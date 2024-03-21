@@ -18,8 +18,8 @@ For license information check the [LICENSE](LICENSE)-file.
 [![CSS Bootstrap](https://img.shields.io/badge/%20CSS%20-%20Bootstrap%205.3%20-gray.svg?colorA=2C5364&colorB=0F2027&style=flat&logo=bootstrap&logoColor=white)](https://github.com/sdailover/react-aicamsor)
 
 
-[![Latest Stable Version](https://poser.pugx.org/sdailover/react-aicamsor/v/stable.png)](https://packagist.org/packages/sdailover/react-aicamsor)
-[![Total Downloads](https://poser.pugx.org/sdailover/react-aicamsor/downloads.png)](https://packagist.org/packages/sdailover/react-aicamsor)
+[![NPM Version](https://img.shields.io/npm/v/%40sdailover%2Freact-aicamsor.svg)](https://www.npmjs.com/package/@sdailover/react-aicamsor)
+[![NPM Downloads](https://img.shields.io/npm/dt/%40sdailover%2Freact-aicamsor.svg)](https://www.npmjs.com/package/@sdailover/react-aicamsor)
 [![GitHub watchers](https://img.shields.io/github/watchers/sdailover/react-aicamsor)](https://github.com/sdailover/react-aicamsor)
 [![GitHub Repo stars](https://img.shields.io/github/stars/sdailover/react-aicamsor)](https://github.com/sdailover/react-aicamsor)
 [![GitHub issues](https://img.shields.io/github/forks/sdailover/react-aicamsor)](https://github.com/sdailover/react-aicamsor)
@@ -75,7 +75,7 @@ To download example package, please visit to:
 
 **Sample Source**: <https://github.com/wiefunkdai/facerecognition-nextjs>
 
-**Live Demo**: <https://nextjsfacerecognition-wiefunkdai.vercel.app>
+**Live Demo**: <https://facerecognitionnextjs-wiefunkdai.vercel.app>
 
 # Support the project
 
@@ -92,6 +92,7 @@ If you are using this project and are happy with it or just want to encourage us
   
 However, we also provide software development services. You can also invite us to collaborate to help your business in developing the software you need. Please contact us at:<br>
 [![team@sdailover.com](https://img.shields.io/badge/%20Send%20Mail%20-gray.svg?colorA=EA4335&colorB=93291E&style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@sdailover.com)
+[![discord@sdailover](https://img.shields.io/badge/%20Chat%20to%20Us%20-gray.svg?colorA=4E3188&colorB=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vX4HFvxz)
 
 ## :pray: Thanks for your contribute and support! :heart_eyes: :heart:
 
